@@ -10,7 +10,7 @@ To run this booster on your local host:
 
 [source,bash,options="nowrap",subs="attributes+"]
 ----
-$ git clone git@github.com:${loggedUser}/space-apr6-11-23
+$ git clone git@github.com:invincibleJai/space-apr6-11-23
 
 $ cd space-apr6-11-23
 
